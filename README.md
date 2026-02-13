@@ -25,9 +25,6 @@ Files used:
 
 ---
 
-
----
-
 ## ETL Workflow
 
 ### 1. Extract
