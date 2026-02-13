@@ -121,6 +121,3 @@ Validation checks included:
 ## Conclusion
 This project demonstrates a professional ETL pipeline using real-world retail data.  
 It highlights the ability to extract raw datasets, transform them into structured analytical outputs, and load them into a database for further analysis — reflecting common practices used in modern data engineering and analytics workflows.
-
-
-## 🏗️ Project Structure
